@@ -13,6 +13,14 @@
 			"url": "https://raw.githubusercontent.com/markrainey/SkrollableData/refs/heads/main/snipd.json",
 			"description": "Snips from podcasts I have listened to",
 			"imageurl": "https://pbs.twimg.com/profile_images/1455169772593819648/Y7LZb4eA_400x400.jpg"
+		},
+		{
+			"title": "Book points",
+			"id": "bookpoints",
+			"url": "https://raw.githubusercontent.com/markrainey/SkrollableData/refs/heads/main/bookPoints.json",
+			"description": "Bullet points from books",
+			"imageurl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Other_general_items_-_Notepad_--_Smart-Servier.png/250px-Other_general_items_-_Notepad_--_Smart-Servier.png"
 		}
+		
 	]
 }
