@@ -1,238 +1,388 @@
-[{
-        "id": "1788176189",
+﻿[
+  {
+    "id": "self-help",
+    "title": "Self help",
+    "author": null,
+    "description": null,
+    "url": null,
+    "imageurl": "https://commons.wikimedia.org/wiki/File:Torchlight_help_yellow.png",
+    "chapters": [
+      {
+        "id": "self-help-1788176189",
         "title": "The Let Them Theory",
         "author": "Mel Robbins",
-        "description": "The Let Them Theory explores a simple yet profound mindset shift designed to eliminate the stress of trying to control other people's actions, opinions, and choices. Mel Robbins argues that much of our emotional exhaustion stems from an internal battle against reality—trying to force people to be who we want them to be or act how we think they should. By adopting the 'Let Them' mantra, individuals can reclaim their peace of mind and redirect their energy toward their own goals and happiness.\n\nThroughout the book, Robbins combines personal anecdotes with science-backed research in psychology and neuroscience to explain why we have a biological urge to control others and how to override it. The narrative serves as a practical guide for setting boundaries, building healthier relationships, and developing the resilience needed to pursue a life of authenticity without being hindered by the judgments or drama of those around us.",
-        "url": "https://www.amazon.co.uk/dp/1788176189/",
+        "description": "The \u0022Let Them Theory\u0022 by Mel Robbins is a powerful framework that encourages individuals to release the burden of controlling others\u0027 perceptions, actions, and feelings. It\u0027s about reclaiming personal peace and freedom by accepting that you cannot manage how others react or behave. By embracing \u0022let them,\u0022 you stop overthinking, over-explaining, and over-functioning, allowing you to focus on your own well-being and choices.",
+        "url": null,
+        "showurl": "https://www.amazon.co.uk/dp/1788176189/",
         "imageurl": "https://m.media-amazon.com/images/P/1788176189.01._SCLZZZZZZZ_SX128.jpg",
-        "chapters": [{
-                "id": "ch-1788176189",
-                "title": "",
-                "author": null,
-                "description": "",
-                "url": null,
-                "showurl": null,
-                "imageurl": null,
-                "verses": [{
-                        "id": "1788176189-1",
-                        "title": "Release Control Addiction",
-                        "text": "Accept that you cannot control how others think, feel, or act, and that trying to do so is a primary source of anxiety."
-                    }, {
-                        "id": "1788176189-2",
-                        "title": "Preserve Emotional Energy",
-                        "text": "Stop wasting mental bandwidth on people who don't meet your expectations; instead, use that energy to focus on your own growth."
-                    }, {
-                        "id": "1788176189-3",
-                        "title": "Detach From Judgment",
-                        "text": "Understand that the opinions of others are a reflection of their own reality and history, not a definitive statement on your worth."
-                    }, {
-                        "id": "1788176189-4",
-                        "title": "The Mantra Power",
-                        "text": "Use the phrase 'Let Them' as an instant circuit-breaker when you feel frustrated by someone else's behavior or lack of engagement."
-                    }, {
-                        "id": "1788176189-5",
-                        "title": "Avoid External Drama",
-                        "text": "Learn to recognize when you are being pulled into other people's drama and use the theory to stay grounded and neutral."
-                    }, {
-                        "id": "1788176189-6",
-                        "title": "See True Nature",
-                        "text": "By allowing people to be exactly who they are, you gain the clarity needed to decide if they truly belong in your inner circle."
-                    }, {
-                        "id": "1788176189-7",
-                        "title": "Conquer Rejection Fears",
-                        "text": "Accepting that some people will 'let you down' allows you to stop living in fear of their disapproval and start living for yourself."
-                    }, {
-                        "id": "1788176189-8",
-                        "title": "Control Your Response",
-                        "text": "While you cannot control what happens to you, this theory empowers you to take 100% responsibility for how you respond."
-                    }, {
-                        "id": "1788176189-9",
-                        "title": "Establish Healthy Boundaries",
-                        "text": "Letting people 'be' doesn't mean accepting mistreatment; it means seeing their true nature and setting boundaries based on that reality."
-                    }, {
-                        "id": "1788176189-10",
-                        "title": "Prioritize Inner Peace",
-                        "text": "Apply the theory across work, family, and friendships to create a 'life reset' that prioritizes your own peace and long-term goals."
-                    }
-                ]
-            }
+        "verses": [
+          {
+            "id": "self-help-1788176189-1",
+            "title": "Release Control Over Others",
+            "text": "The fundamental principle of the \u0022Let Them Theory\u0022 is to consciously stop trying to control how others think, feel, or act. This means letting go of the need to manage their perceptions of you or their reactions to your decisions."
+          },
+          {
+            "id": "self-help-1788176189-2",
+            "title": "Reclaim Your Inner Peace",
+            "text": "By releasing the burden of control, you free yourself from constant worry and anxiety about others\u0027 opinions. This practice allows you to reclaim a profound sense of calm and mental tranquility, regardless of external circumstances."
+          },
+          {
+            "id": "self-help-1788176189-3",
+            "title": "Stop Overthinking, Over-explaining",
+            "text": "The theory encourages you to cease the exhaustive cycle of overthinking situations and over-explaining your choices to others. When you \u0022let them\u0022 have their own thoughts, you no longer feel compelled to justify or defend yourself constantly."
+          },
+          {
+            "id": "self-help-1788176189-4",
+            "title": "Embrace Your Authentic Self",
+            "text": "When you stop trying to manipulate others\u0027 views, you gain the freedom to be your true self without apology. This fosters a deeper sense of self-acceptance and allows you to live in alignment with your values, rather than external expectations."
+          },
+          {
+            "id": "self-help-1788176189-5",
+            "title": "Establish Healthy Boundaries",
+            "text": "The \u0022Let Them Theory\u0022 naturally leads to setting clearer personal boundaries. By accepting that others will have their own reactions, you empower yourself to protect your time, energy, and emotional well-being without guilt."
+          },
+          {
+            "id": "self-help-1788176189-6",
+            "title": "Shift Focus to Your Well-being",
+            "text": "Instead of expending energy on what others might think or do, the theory redirects your attention inward. This allows you to prioritize your own needs, goals, and happiness, fostering personal growth and self-care."
+          },
+          {
+            "id": "self-help-1788176189-7",
+            "title": "Reduce Anxiety and Stress",
+            "text": "A significant benefit of this approach is a marked reduction in anxiety and stress levels. By letting go of the need to control the uncontrollable, you alleviate a major source of mental and emotional strain."
+          },
+          {
+            "id": "self-help-1788176189-8",
+            "title": "Improve Relationships Authentically",
+            "text": "Paradoxically, letting go of control can strengthen your relationships. It fosters more genuine connections built on acceptance rather than manipulation, allowing others to be themselves and you to be yourself."
+          },
+          {
+            "id": "self-help-1788176189-9",
+            "title": "Empower Yourself Daily",
+            "text": "This theory is a powerful tool for daily empowerment, reminding you that your peace is not dependent on others\u0027 approval or actions. It gives you back agency over your emotional state and life choices."
+          },
+          {
+            "id": "self-help-1788176189-10",
+            "title": "Practice Radical Acceptance",
+            "text": "At its core, the \u0022Let Them Theory\u0022 is about radical acceptance \u2013 accepting that people are entitled to their own opinions, feelings, and choices, even if they differ from yours. This acceptance liberates you from fighting against reality."
+          }
         ]
-    }, {
-        "id": "1847941834",
+      },
+      {
+        "id": "self-help-1847941834",
         "title": "Atomic Habits",
         "author": "James Clear",
-        "description": "Atomic Habits presents a proven framework for improving every day by focusing on tiny behaviors that, when compounded over time, lead to remarkable results. James Clear argues that the real problem with changing your habits is not you, but your system; bad habits repeat themselves not because you don't want to change, but because you have the wrong system for change.\n\nThe book introduces the Four Laws of Behavior Change—make it obvious, attractive, easy, and satisfying—to show how to create good habits and break bad ones. By shifting the focus from goal-oriented outcomes to identity-based habits, Clear provides a practical guide for anyone looking to optimize their performance, whether in their personal life, health, or career.",
-        "url": "https://www.amazon.co.uk/dp/1847941834/",
+        "description": "Atomic Habits by James Clear provides a practical, step-by-step framework for improving every day. It argues that meaningful change comes from the compound effect of hundreds of small decisions, known as atomic habits. The book outlines four simple laws of behavior change to build good habits and break bad ones, focusing on systems over goals.",
+        "url": null,
+        "showurl": "https://www.amazon.co.uk/dp/1847941834/",
         "imageurl": "https://m.media-amazon.com/images/P/1847941834.01._SCLZZZZZZZ_SX128.jpg",
-        "chapters": [{
-                "id": "ch-1847941834",
-                "title": "",
-                "author": null,
-                "description": "",
-                "url": null,
-                "showurl": null,
-                "imageurl": null,
-                "verses": [{
-                        "id": "1847941834-1",
-                        "title": "Power of One Percent",
-                        "text": "Small improvements of just 1% every day compound into massive long-term results, proving that tiny changes lead to life-altering transformations."
-                    }, {
-                        "id": "1847941834-2",
-                        "title": "Systems Over Goals",
-                        "text": "Forget about goals and focus on your systems instead; winners and losers often have the same goals, but different systems determine the outcome."
-                    }, {
-                        "id": "1847941834-3",
-                        "title": "Identity-Based Habits",
-                        "text": "The most effective way to change your habits is to focus not on what you want to achieve, but on who you wish to become."
-                    }, {
-                        "id": "1847941834-4",
-                        "title": "Make It Obvious",
-                        "text": "Design your environment so that the cues for your good habits are visible and prominent, making the right choice the easiest choice."
-                    }, {
-                        "id": "1847941834-5",
-                        "title": "Use Habit Stacking",
-                        "text": "Integrate a new habit into your routine by anchoring it to an existing habit you already perform consistently every day."
-                    }, {
-                        "id": "1847941834-6",
-                        "title": "Make It Attractive",
-                        "text": "Utilize temptation bundling by pairing an action you need to do with an action you want to do to make habits more appealing."
-                    }, {
-                        "id": "1847941834-7",
-                        "title": "The Two-Minute Rule",
-                        "text": "When you start a new habit, it should take less than two minutes to do, ensuring that you overcome the initial resistance to starting."
-                    }, {
-                        "id": "1847941834-8",
-                        "title": "Make It Satisfying",
-                        "text": "The human brain prioritizes immediate rewards; ensure your habits feel successful in the moment to increase the likelihood of repetition."
-                    }, {
-                        "id": "1847941834-9",
-                        "title": "Never Miss Twice",
-                        "text": "Missing once is an accident, but missing twice is the start of a new habit. Recover quickly to maintain your long-term momentum."
-                    }, {
-                        "id": "1847941834-10",
-                        "title": "Optimize Your Environment",
-                        "text": "Success is less about willpower and more about environment design; make the cues for bad habits invisible and the cues for good habits unavoidable."
-                    }
-                ]
-            }
+        "verses": [
+          {
+            "id": "self-help-1847941834-1",
+            "title": "Small Habits Compound",
+            "text": "Atomic habits are tiny, routine actions that are part of a larger system. These small, consistent improvements, when compounded over time, can lead to remarkable results and significant personal transformation."
+          },
+          {
+            "id": "self-help-1847941834-2",
+            "title": "Systems Over Goals",
+            "text": "True long-term progress comes from focusing on the systems that lead to desired outcomes, rather than just the goals themselves. Goals are about the results you want to achieve, but systems are about the processes that help you achieve those results."
+          },
+          {
+            "id": "self-help-1847941834-3",
+            "title": "Identity-Based Habits",
+            "text": "The most effective way to change your habits is to focus on who you wish to become, not what you want to achieve. When you adopt a new identity, your habits become a natural extension of that self-image, making them easier to sustain."
+          },
+          {
+            "id": "self-help-1847941834-4",
+            "title": "Make It Obvious",
+            "text": "The first law of behavior change is to make good habits obvious and bad habits invisible. Design your environment to make cues for desired actions prominent and easily accessible, reducing the effort needed to start."
+          },
+          {
+            "id": "self-help-1847941834-5",
+            "title": "Make It Attractive",
+            "text": "The second law is to make habits attractive. You are more likely to stick with a habit if you find it appealing, often by using temptation bundling where you pair a desired action with something you already enjoy."
+          },
+          {
+            "id": "self-help-1847941834-6",
+            "title": "Make It Easy",
+            "text": "The third law is to make habits easy. Reduce the friction associated with good habits and increase the friction for bad ones. The \u0027Two-Minute Rule\u0027 suggests starting any new habit in less than two minutes to overcome initial resistance."
+          },
+          {
+            "id": "self-help-1847941834-7",
+            "title": "Make It Satisfying",
+            "text": "The fourth law is to make habits satisfying. We are more likely to repeat a behavior when the experience is immediately rewarding. Find ways to give yourself immediate gratification for completing a good habit, even if it\u0027s small."
+          },
+          {
+            "id": "self-help-1847941834-8",
+            "title": "Habit Stacking Strategy",
+            "text": "Habit stacking involves pairing a new habit you want to form with an existing habit you already do regularly. This creates a clear cue for the new behavior, making it easier to remember and implement into your daily routine."
+          },
+          {
+            "id": "self-help-1847941834-9",
+            "title": "The Goldilocks Rule",
+            "text": "To maintain motivation, you need to work on tasks of just the right difficulty \u2013 not too hard to be discouraging, and not too easy to be boring. This \u0027Goldilocks Rule\u0027 keeps you engaged and progressing, fostering continuous improvement."
+          },
+          {
+            "id": "self-help-1847941834-10",
+            "title": "Track Your Progress",
+            "text": "Tracking your habits provides visual proof of your progress, which can be incredibly motivating and reinforces your identity as someone who sticks to their habits. The goal is to \u0027never miss twice\u0027 \u2013 if you miss a day, get back on track immediately."
+          }
         ]
-    }, {
-        "id": "1949759229",
-        "title": "The Mountain Is You: Transforming Self-Sabotage Into Self-Mastery",
-        "author": "Brianna Wiest",
-        "description": "The Mountain Is You explores the psychological mechanisms behind self-sabotage and offers a roadmap for turning internal obstacles into paths for growth. Brianna Wiest argues that our most damaging habits are actually maladaptive coping mechanisms—conflicting needs within ourselves that prevent us from moving forward. By identifying these subconscious commitments and excavating the underlying trauma, readers can begin the work of emotional processing and behavioral change.\n\nThe book utilizes the metaphor of a mountain to represent the internal work required to achieve self-mastery. Instead of viewing the challenge as an external force to be conquered, Wiest emphasizes that the 'mountain' is actually the collection of our own insecurities, past experiences, and limiting beliefs. The narrative guides readers through the process of building emotional intelligence and resilience, ultimately asserting that the goal is not to master the world around us, but to master our own minds and actions.",
-        "url": "https://www.amazon.co.uk/dp/1949759229/",
-        "imageurl": "https://m.media-amazon.com/images/P/1949759229.01._SCLZZZZZZZ_SX128.jpg",
-        "chapters": [{
-                "id": "ch-1949759229",
-                "title": "",
-                "author": null,
-                "description": "",
-                "url": null,
-                "showurl": null,
-                "imageurl": null,
-                "verses": [{
-                        "id": "1949759229-1",
-                        "title": "Understand Self-Sabotage Logic",
-                        "text": "Self-sabotage is not a character flaw but a coping mechanism used to meet a neglected need or protect yourself from perceived discomfort."
-                    }, {
-                        "id": "1949759229-2",
-                        "title": "Identify Subconscious Commitments",
-                        "text": "Recognize the hidden desires that conflict with your conscious goals, as these internal 'counter-commitments' are the true source of your resistance."
-                    }, {
-                        "id": "1949759229-3",
-                        "title": "Triggers as Teachers",
-                        "text": "View your emotional triggers as maps to your unhealed wounds; they highlight exactly where you need to do the most internal work."
-                    }, {
-                        "id": "1949759229-4",
-                        "title": "Build Emotional Intelligence",
-                        "text": "Develop the ability to sit with discomfort and interpret your feelings logically rather than reacting impulsively to every emotional spike."
-                    }, {
-                        "id": "1949759229-5",
-                        "title": "Release Past Trauma",
-                        "text": "Acknowledge that holding onto past pain creates a 'cellular memory' that dictates your current behavior; healing requires actively letting go."
-                    }, {
-                        "id": "1949759229-6",
-                        "title": "Master Your Mindset",
-                        "text": "Shift from a fixed mindset to one of self-mastery by understanding that you are the creator of your own experience and suffering."
-                    }, {
-                        "id": "1949759229-7",
-                        "title": "Embrace Radical Change",
-                        "text": "Significant personal growth often requires losing the life you currently have to make space for the person you are becoming."
-                    }, {
-                        "id": "1949759229-8",
-                        "title": "Differentiate Intuition from Fear",
-                        "text": "Learn to distinguish between your gut instinct, which is calm and direct, and intrusive thoughts, which are loud, frantic, and rooted in fear."
-                    }, {
-                        "id": "1949759229-9",
-                        "title": "Focus on Microshifts",
-                        "text": "Instead of waiting for a massive breakthrough, focus on small, daily behavioral adjustments that gradually align your reality with your potential."
-                    }, {
-                        "id": "1949759229-10",
-                        "title": "Achieve Self-Mastery",
-                        "text": "Realize that the ultimate goal is not to reach the peak of the mountain, but to transform yourself through the process of the climb."
-                    }
-                ]
-            }
+      },
+      {
+        "id": "self-help-1802063277",
+        "title": "The Anxious Generation",
+        "author": "Jonathan Haidt",
+        "description": "Jonathan Haidt\u0027s \u0022The Anxious Generation\u0022 argues that the widespread adoption of smartphones and social media has fundamentally rewired childhood, leading to a dramatic increase in anxiety, depression, and self-harm among adolescents. He contends that a \u0022phone-based childhood\u0022 has displaced essential play-based development, creating a mental health crisis. The book calls for collective action to reform technology use and restore a healthier environment for young people.",
+        "url": null,
+        "showurl": "https://www.amazon.co.uk/dp/1802063277/",
+        "imageurl": "https://m.media-amazon.com/images/P/1802063277.01._SCLZZZZZZZ_SX128.jpg",
+        "verses": [
+          {
+            "id": "self-help-1802063277-1",
+            "title": "Childhood\u0027s Digital Rewiring",
+            "text": "Haidt posits that the shift from a play-based to a phone-based childhood has profoundly altered adolescent development. This digital transformation has reshaped social interactions, attention spans, and the very structure of young people\u0027s lives."
+          },
+          {
+            "id": "self-help-1802063277-2",
+            "title": "Mental Health Crisis Link",
+            "text": "The book presents compelling evidence linking the widespread adoption of smartphones and social media to a dramatic increase in anxiety, depression, and self-harm among adolescents. This correlation suggests a strong causal relationship between technology use and declining mental well-being."
+          },
+          {
+            "id": "self-help-1802063277-3",
+            "title": "Loss of Independent Play",
+            "text": "Haidt emphasizes the critical importance of unsupervised, independent play for developing resilience, social skills, and problem-solving. The rise of screen time has displaced this essential developmental activity, contributing to less robust and more anxious children."
+          },
+          {
+            "id": "self-help-1802063277-4",
+            "title": "Social Media\u0027s Toxic Impact",
+            "text": "Social media platforms are depicted as particularly detrimental, fostering comparison culture, cyberbullying, and constant performance anxiety. They disrupt genuine social connection and contribute to feelings of inadequacy and isolation among youth."
+          },
+          {
+            "id": "self-help-1802063277-5",
+            "title": "Gendered Impact of Tech",
+            "text": "The book highlights that the mental health crisis manifests differently across genders, with girls experiencing higher rates of anxiety and depression linked to social media. Boys, conversely, face issues related to video game addiction and social isolation, indicating distinct pathways of harm."
+          },
+          {
+            "id": "self-help-1802063277-6",
+            "title": "The Collective Action Problem",
+            "text": "Haidt identifies that individual parents often feel powerless to resist the pervasive influence of technology, creating a \u0022collective action problem.\u0022 Solutions require societal-level changes and coordinated efforts rather than isolated parental decisions to be effective."
+          },
+          {
+            "id": "self-help-1802063277-7",
+            "title": "Four Foundational Harms",
+            "text": "The book outlines four major harms: social deprivation, sleep deprivation, attention fragmentation, and addiction. These interconnected issues collectively undermine the healthy development of young minds and bodies, leading to widespread distress."
+          },
+          {
+            "id": "self-help-1802063277-8",
+            "title": "Reclaiming Childhood Solutions",
+            "text": "Haidt proposes concrete solutions, including delaying smartphone access, banning phones in schools, and increasing opportunities for unsupervised play. These steps aim to restore a healthier developmental environment for children and mitigate digital harms."
+          },
+          {
+            "id": "self-help-1802063277-9",
+            "title": "Adolescent Brain Vulnerability",
+            "text": "The book explains that the adolescent brain is particularly vulnerable to the effects of constant digital stimulation and social comparison due to its ongoing development. This makes young people more susceptible to addiction and mental health issues than adults."
+          },
+          {
+            "id": "self-help-1802063277-10",
+            "title": "Need for Cultural Shift",
+            "text": "Ultimately, Haidt argues for a fundamental cultural shift away from the current phone-centric model of childhood. This requires a societal recognition of the problem and a collective commitment to prioritizing children\u0027s well-being over digital engagement."
+          }
         ]
-    }, {
-        "id": "0241529719",
-        "title": "Why Has Nobody Told Me This Before?",
-        "author": "Dr Julie Smith",
-        "description": "Why Has Nobody Told Me This Before? acts as a therapist’s toolkit, offering practical strategies to manage mental health and emotional well-being in daily life. Dr Julie Smith, a clinical psychologist, breaks down complex psychological concepts into bite-sized, actionable advice, arguing that understanding how our minds and bodies work is the first step toward building resilience.\n\nThe book is structured around common emotional challenges such as anxiety, low mood, grief, and self-doubt. By focusing on the 'soft skills' of mental health—rather than just diagnostic labels—Smith empowers readers to take charge of their own emotional regulation through science-backed techniques and cognitive behavioral shifts.",
-        "url": "https://www.amazon.co.uk/dp/0241529719/",
-        "imageurl": "https://m.media-amazon.com/images/P/0241529719.01._SCLZZZZZZZ_SX128.jpg",
-        "chapters": [{
-                "id": "ch-0241529719",
-                "title": "",
-                "author": null,
-                "description": "",
-                "url": null,
-                "showurl": null,
-                "imageurl": null,
-                "verses": [{
-                        "id": "0241529719-1",
-                        "title": "Thoughts Are Not Facts",
-                        "text": "Recognize that your thoughts are just brain-generated suggestions based on biases and past experiences, not absolute reflections of reality."
-                    }, {
-                        "id": "0241529719-2",
-                        "title": "The Feedback Loop",
-                        "text": "Understand that physical sensations, thoughts, and emotions are connected; changing your physical state can interrupt a negative emotional spiral."
-                    }, {
-                        "id": "0241529719-3",
-                        "title": "Anxiety is a Signal",
-                        "text": "Shift your perspective on anxiety from a 'defect' to an internal alarm system meant to protect you, which allows you to process it more calmly."
-                    }, {
-                        "id": "0241529719-4",
-                        "title": "Manage Low Moods",
-                        "text": "When feeling down, focus on 'good enough' decisions and small behavioral shifts rather than waiting for motivation to strike first."
-                    }, {
-                        "id": "0241529719-5",
-                        "title": "Build Emotional Resilience",
-                        "text": "Resilience is not about avoiding pain, but about developing a toolkit of healthy coping mechanisms to use when life gets difficult."
-                    }, {
-                        "id": "0241529719-6",
-                        "title": "Practice Mindfulness Visuals",
-                        "text": "Use physical props, like a window frame for box breathing, to ground yourself during intense moments of stress or panic."
-                    }, {
-                        "id": "0241529719-7",
-                        "title": "Stop Rumination Cycles",
-                        "text": "Physically move your body or use a verbal cue like 'Stop!' to break the loop of repetitive, self-critical thinking."
-                    }, {
-                        "id": "0241529719-8",
-                        "title": "Self-Compassion Over Criticism",
-                        "text": "Treat yourself with the same kindness you would offer a friend; self-criticism often amplifies emotional pain rather than solving it."
-                    }, {
-                        "id": "0241529719-9",
-                        "title": "Values-Based Living",
-                        "text": "Focus on living a life aligned with your personal values rather than the fleeting pursuit of happiness, which leads to deeper fulfillment."
-                    }, {
-                        "id": "0241529719-10",
-                        "title": "Prioritize Basic Needs",
-                        "text": "Never underestimate the power of sleep, daylight, and movement in regulating your brain chemistry and overall mental health."
-                    }
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "id": "popular-science",
+    "title": "Popular Science",
+    "author": null,
+    "description": null,
+    "url": null,
+    "imageurl": "https://cdn.iconscout.com/icon/free/png-256/free-development-mode-icon-svg-download-png-12410671.png",
+    "chapters": [
+      {
+        "id": "popular-science-1802063277",
+        "title": "The Anxious Generation",
+        "author": "Jonathan Haidt",
+        "description": "Jonathan Haidt\u0027s \u0022The Anxious Generation\u0022 argues that the widespread adoption of smartphones and social media has fundamentally rewired childhood, leading to a dramatic increase in anxiety, depression, and self-harm among adolescents. He contends that a \u0022phone-based childhood\u0022 has displaced essential play-based development, creating a mental health crisis. The book calls for collective action to reform technology use and restore a healthier environment for young people.",
+        "url": null,
+        "showurl": "https://www.amazon.co.uk/dp/1802063277/",
+        "imageurl": "https://m.media-amazon.com/images/P/1802063277.01._SCLZZZZZZZ_SX128.jpg",
+        "verses": [
+          {
+            "id": "popular-science-1802063277-1",
+            "title": "Childhood\u0027s Digital Rewiring",
+            "text": "Haidt posits that the shift from a play-based to a phone-based childhood has profoundly altered adolescent development. This digital transformation has reshaped social interactions, attention spans, and the very structure of young people\u0027s lives."
+          },
+          {
+            "id": "popular-science-1802063277-2",
+            "title": "Mental Health Crisis Link",
+            "text": "The book presents compelling evidence linking the widespread adoption of smartphones and social media to a dramatic increase in anxiety, depression, and self-harm among adolescents. This correlation suggests a strong causal relationship between technology use and declining mental well-being."
+          },
+          {
+            "id": "popular-science-1802063277-3",
+            "title": "Loss of Independent Play",
+            "text": "Haidt emphasizes the critical importance of unsupervised, independent play for developing resilience, social skills, and problem-solving. The rise of screen time has displaced this essential developmental activity, contributing to less robust and more anxious children."
+          },
+          {
+            "id": "popular-science-1802063277-4",
+            "title": "Social Media\u0027s Toxic Impact",
+            "text": "Social media platforms are depicted as particularly detrimental, fostering comparison culture, cyberbullying, and constant performance anxiety. They disrupt genuine social connection and contribute to feelings of inadequacy and isolation among youth."
+          },
+          {
+            "id": "popular-science-1802063277-5",
+            "title": "Gendered Impact of Tech",
+            "text": "The book highlights that the mental health crisis manifests differently across genders, with girls experiencing higher rates of anxiety and depression linked to social media. Boys, conversely, face issues related to video game addiction and social isolation, indicating distinct pathways of harm."
+          },
+          {
+            "id": "popular-science-1802063277-6",
+            "title": "The Collective Action Problem",
+            "text": "Haidt identifies that individual parents often feel powerless to resist the pervasive influence of technology, creating a \u0022collective action problem.\u0022 Solutions require societal-level changes and coordinated efforts rather than isolated parental decisions to be effective."
+          },
+          {
+            "id": "popular-science-1802063277-7",
+            "title": "Four Foundational Harms",
+            "text": "The book outlines four major harms: social deprivation, sleep deprivation, attention fragmentation, and addiction. These interconnected issues collectively undermine the healthy development of young minds and bodies, leading to widespread distress."
+          },
+          {
+            "id": "popular-science-1802063277-8",
+            "title": "Reclaiming Childhood Solutions",
+            "text": "Haidt proposes concrete solutions, including delaying smartphone access, banning phones in schools, and increasing opportunities for unsupervised play. These steps aim to restore a healthier developmental environment for children and mitigate digital harms."
+          },
+          {
+            "id": "popular-science-1802063277-9",
+            "title": "Adolescent Brain Vulnerability",
+            "text": "The book explains that the adolescent brain is particularly vulnerable to the effects of constant digital stimulation and social comparison due to its ongoing development. This makes young people more susceptible to addiction and mental health issues than adults."
+          },
+          {
+            "id": "popular-science-1802063277-10",
+            "title": "Need for Cultural Shift",
+            "text": "Ultimately, Haidt argues for a fundamental cultural shift away from the current phone-centric model of childhood. This requires a societal recognition of the problem and a collective commitment to prioritizing children\u0027s well-being over digital engagement."
+          }
         ]
-    }
+      },
+      {
+        "id": "popular-science-1785044540",
+        "title": "Outlive: The Science and Art of Longevity",
+        "author": "Peter Attia",
+        "description": "Peter Attia\u0027s \u0022Outlive\u0022 challenges conventional medicine\u0027s reactive approach to health, advocating for a proactive, personalized strategy to extend both lifespan and healthspan. It delves into the science of longevity, focusing on preventing chronic diseases like heart disease, cancer, neurodegenerative disease, and type 2 diabetes, which Attia terms \u0022the Four Horsemen.\u0022 The book provides actionable insights and a framework for optimizing nutrition, exercise, sleep, and emotional health to live longer, healthier lives.",
+        "url": null,
+        "showurl": "https://www.amazon.co.uk/dp/1785044540/",
+        "imageurl": "https://m.media-amazon.com/images/P/1785044540.01._SCLZZZZZZZ_SX128.jpg",
+        "verses": [
+          {
+            "id": "popular-science-1785044540-1",
+            "title": "Medicine 3.0: Proactive Longevity",
+            "text": "Attia introduces Medicine 3.0, a paradigm shift from reactive disease treatment (Medicine 2.0) to proactive prevention and optimization of healthspan. This approach focuses on delaying or preventing the onset of chronic diseases rather than just managing them once they appear."
+          },
+          {
+            "id": "popular-science-1785044540-2",
+            "title": "Combatting The Four Horsemen",
+            "text": "The book identifies cardiovascular disease, cancer, neurodegenerative disease, and type 2 diabetes as the \u0022Four Horsemen\u0022 responsible for most premature deaths and suffering. Attia emphasizes understanding and mitigating the risks associated with these conditions through early intervention."
+          },
+          {
+            "id": "popular-science-1785044540-3",
+            "title": "Personalized Longevity Strategy",
+            "text": "There is no one-size-fits-all approach to longevity; instead, it requires a highly personalized strategy based on individual genetics, lifestyle, and risk factors. This involves deep dives into personal biomarkers and tailoring interventions accordingly."
+          },
+          {
+            "id": "popular-science-1785044540-4",
+            "title": "Exercise: Potent Longevity Drug",
+            "text": "Exercise is presented as arguably the most powerful tool for extending healthspan and lifespan, impacting all aspects of the Four Horsemen. The book details specific types of exercise\u2014aerobic efficiency, VO2 max, strength, and stability\u2014and their importance."
+          },
+          {
+            "id": "popular-science-1785044540-5",
+            "title": "Nutritional Biochemistry for Longevity",
+            "text": "Attia advocates for understanding the biochemical impact of food rather than following rigid dietary dogma. He emphasizes metabolic flexibility, glucose regulation, and the importance of protein intake for muscle preservation as key nutritional pillars."
+          },
+          {
+            "id": "popular-science-1785044540-6",
+            "title": "Sleep: Foundation of Health",
+            "text": "High-quality sleep is highlighted as a non-negotiable foundation for physical and cognitive health, impacting everything from hormone regulation to immune function and brain clearance. Prioritizing sleep hygiene is crucial for longevity."
+          },
+          {
+            "id": "popular-science-1785044540-7",
+            "title": "Emotional Health and Resilience",
+            "text": "Emotional well-being and psychological resilience are integral to longevity, often overlooked in physical health discussions. Chronic stress and unaddressed trauma can significantly impact physical health and accelerate aging."
+          },
+          {
+            "id": "popular-science-1785044540-8",
+            "title": "Glucose and Insulin Management",
+            "text": "Maintaining optimal glucose and insulin sensitivity is a recurring theme, crucial for preventing type 2 diabetes and mitigating risks for other chronic diseases. Continuous glucose monitoring and dietary choices play a significant role."
+          },
+          {
+            "id": "popular-science-1785044540-9",
+            "title": "Early Detection and Biomarkers",
+            "text": "Proactive longevity involves extensive use of advanced diagnostics and biomarkers to detect risks long before symptoms appear. This includes detailed lipid panels, genetic testing, advanced imaging, and regular comprehensive health assessments."
+          },
+          {
+            "id": "popular-science-1785044540-10",
+            "title": "The Centenarian Decathlon",
+            "text": "Attia introduces the concept of the \u0022Centenarian Decathlon,\u0022 a set of physical tasks one wishes to be able to perform at age 100. This framework helps individuals reverse-engineer their current training and lifestyle choices to maintain functional independence into old age."
+          }
+        ]
+      },
+      {
+        "id": "popular-science-1529160227",
+        "title": "Ultra-Processed People",
+        "author": "Chris van Tulleken",
+        "description": "Chris van Tulleken\u0027s \u0022Ultra-Processed People\u0022 exposes the pervasive and detrimental impact of ultra-processed foods (UPFs) on human health and the environment. The book argues that the rise of UPFs is a systemic issue driven by the food industry, rather than a failure of individual willpower. It delves into the science behind UPFs\u0027 addictive nature and their links to a myriad of chronic diseases.",
+        "url": null,
+        "showurl": "https://www.amazon.co.uk/dp/1529160227/",
+        "imageurl": "https://m.media-amazon.com/images/P/1529160227.01._SCLZZZZZZZ_SX128.jpg",
+        "verses": [
+          {
+            "id": "popular-science-1529160227-1",
+            "title": "Defining Ultra-Processed Foods",
+            "text": "UPFs are industrial formulations made from ingredients derived from foods, often with added sugars, fats, salts, and artificial additives. They are designed for hyper-palatability, convenience, and long shelf life, bearing little resemblance to whole foods."
+          },
+          {
+            "id": "popular-science-1529160227-2",
+            "title": "Detrimental Health Effects",
+            "text": "Consumption of UPFs is strongly linked to increased risks of obesity, type 2 diabetes, cardiovascular disease, certain cancers, and mental health issues. They often displace nutrient-dense whole foods from the diet, leading to nutritional deficiencies."
+          },
+          {
+            "id": "popular-science-1529160227-3",
+            "title": "Engineered for Addiction",
+            "text": "UPFs are meticulously engineered to be highly palatable and addictive, stimulating reward pathways in the brain similar to drugs. Their combination of fat, sugar, salt, and texture overrides natural satiety signals, encouraging overconsumption."
+          },
+          {
+            "id": "popular-science-1529160227-4",
+            "title": "Industry\u0027s Powerful Grip",
+            "text": "The ultra-processed food industry exerts immense influence over food policy, research, and public health messaging. They often fund studies that downplay the harms of UPFs and promote misleading dietary advice."
+          },
+          {
+            "id": "popular-science-1529160227-5",
+            "title": "Beyond Personal Willpower",
+            "text": "The book argues that the problem of UPF consumption is not a failure of individual willpower but a systemic issue. People are often trapped in environments where UPFs are cheap, accessible, and heavily marketed."
+          },
+          {
+            "id": "popular-science-1529160227-6",
+            "title": "Nutritional Deception Tactics",
+            "text": "Many UPFs are marketed as \u0027healthy\u0027 or \u0027natural\u0027 despite their poor nutritional profile and high processing. Labels can be misleading, making it difficult for consumers to identify truly nutritious options."
+          },
+          {
+            "id": "popular-science-1529160227-7",
+            "title": "Environmental Cost of UPFs",
+            "text": "The production of UPFs often involves intensive agricultural practices, monocultures, and significant energy consumption, contributing to environmental degradation. Their extensive packaging also generates vast amounts of plastic waste."
+          },
+          {
+            "id": "popular-science-1529160227-8",
+            "title": "Early Exposure, Lifelong Impact",
+            "text": "Children are particularly vulnerable to UPF marketing and consumption, leading to early development of unhealthy eating habits. This early exposure can set them on a path to chronic health problems later in life."
+          },
+          {
+            "id": "popular-science-1529160227-9",
+            "title": "Urgent Policy Interventions",
+            "text": "Van Tulleken advocates for strong government policies to regulate the UPF industry, similar to tobacco control measures. This includes clearer labeling, restrictions on marketing to children, and subsidies for whole foods."
+          },
+          {
+            "id": "popular-science-1529160227-10",
+            "title": "Reclaiming Real Food",
+            "text": "The book encourages a shift back towards whole, unprocessed foods and traditional cooking methods. It emphasizes the importance of understanding where our food comes from and making informed choices to improve health."
+          }
+        ]
+      }
+    ]
+  }
 ]
