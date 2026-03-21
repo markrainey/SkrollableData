@@ -26,7 +26,7 @@
 			"id": "netbible",
 			"url": "https://raw.githubusercontent.com/markrainey/SkrollableData/refs/heads/main/newbible.json",
 			"description": "Atoms from the NET bible",
-			"imageurl": "https://raw.githubusercontent.com/markrainey/SkrollableData/refs/heads/main/BibleIcon.jpg"
+			"imageurl": "https://raw.githubusercontent.com/markrainey/SkrollableData/refs/heads/main/BibleIcon.png"
 		}		
 	]
 }
